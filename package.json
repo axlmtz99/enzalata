@@ -1,0 +1,19 @@
+{
+  "name": "enzalata",
+  "version": "1.0.0",
+  "description": "First relase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/axlmtz99/enzalata.git"
+  },
+  "author": "axl_67",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/axlmtz99/enzalata/issues"
+  },
+  "homepage": "https://github.com/axlmtz99/enzalata#readme"
+}
